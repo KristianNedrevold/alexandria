@@ -60,11 +60,10 @@ Helse Nord IKT leverer i dag følgende kvalitetsregister:
  * Norsk register for invasiv kardiologi
  * Norsk kvalitetsregister for behandling av spiseforstyrrelser
  * Norsk register for arvelige og medfødte nevromuskulære sykdommer
- * Register for Hidradenitis supprativa
  * Norsk register for analinkontinens
  * Norsk register for gastrokirurgi
  * Norsk kvalitetsregister for endokarditt
- * Nasjonalt kvalitetsregister for ryggkirurgi
+ * Nasjonalt kvalitetsregister for ryggkirurgi (nakke/rygg/deformitet)
 
 Et medisinsk kvalitetsregister er en registreringsløsning for medisinske data relatert til et spesifikt fagfelt, der data samles
 inn for å brukes til analyse og forskning. Et eksempel på et slikt register er Norsk Gynekologisk Endoskopi Register(NGER). 
